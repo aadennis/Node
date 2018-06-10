@@ -1,0 +1,14 @@
+{
+  "name": "mahapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dennis",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
