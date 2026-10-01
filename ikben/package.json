@@ -9,7 +9,7 @@
   "author": "Dennis",
   "license": "MIT",
   "devDependencies": {
-    "electron": "39.8.5"
+    "electron": "41.10.6"
     
   }
 }
